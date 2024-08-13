@@ -1,0 +1,7 @@
+[
+    {"SteeringAngle": 90.0, "Speed": 50.0, "Time": 3.0},
+    {"SteeringAngle": 45.0, "Speed": 100.0, "Time": 2.0},
+    {"SteeringAngle": 0.0, "Speed": 50.0, "Time": 3.0},
+    {"SteeringAngle": 180, "Speed": 100.0, "Time": 2.0},
+    {"SteeringAngle": 60.0, "Speed": 75.0, "Time": 5.0}
+]
